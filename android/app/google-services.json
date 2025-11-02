@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "441801957847",
+    "project_id": "login-demo-565656",
+    "storage_bucket": "login-demo-565656.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441801957847:android:9b68284ab56290d3586b92",
+        "android_client_info": {
+          "package_name": "com.example.bus_tracking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASyhF-1bKzpcjSRG4xW54883S2Y9RdHLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441801957847:android:16065767b513e5a4586b92",
+        "android_client_info": {
+          "package_name": "com.example.text_print_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASyhF-1bKzpcjSRG4xW54883S2Y9RdHLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
